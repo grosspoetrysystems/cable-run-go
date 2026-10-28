@@ -1,0 +1,20 @@
+# Cable Run Go currently has one maintainer.
+* @thekidnamedkd
+
+# Automation, policy, and agent instructions always reach a maintainer.
+/.github/ @thekidnamedkd
+/.github/workflows/ @thekidnamedkd
+/.github/CODEOWNERS @thekidnamedkd
+/scripts/ @thekidnamedkd
+/tests/ @thekidnamedkd
+/.pr_agent.toml @thekidnamedkd
+/AGENTS.md @thekidnamedkd
+/SECURITY.md @thekidnamedkd
+/CONTRIBUTING.md @thekidnamedkd
+/CODE_OF_CONDUCT.md @thekidnamedkd
+/scripts/validate_pr.py @thekidnamedkd
+/tests/test_validate_pr.py @thekidnamedkd
+
+# Release and governance automation.
+/.github/workflows/helicopter-release.yml @thekidnamedkd
+/.github/dependabot.yml @thekidnamedkd
