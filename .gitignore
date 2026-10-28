@@ -1,2 +1,9 @@
 .DS_Store
 .tempor/
+__pycache__/
+*.py[cod]
+.poolboy/*
+!.poolboy/generated.json
+!.poolboy/sources.lock.json
+dist/
+poolboy.key

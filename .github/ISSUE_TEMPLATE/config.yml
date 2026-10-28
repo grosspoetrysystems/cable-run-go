@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a Cable Run Go vulnerability
+    url: https://github.com/grosspoetrysystems/cable-run-go/security/advisories/new
+    about: Send security reports privately.
+  - name: Report conduct or abuse
+    url: https://support.github.com/contact/report-abuse
+    about: Include the relevant Cable Run Go URL.
